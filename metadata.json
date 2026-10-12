@@ -1,0 +1,6 @@
+{
+  "name": "FitQuest",
+  "description": "Move Better. Grow Stronger. Personal fitness challenge app with guided home bodyweight workouts, daily movement quests, interactive brain quizzes, and streak rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
